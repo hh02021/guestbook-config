@@ -7,4 +7,4 @@ data:
   MYSQL_PORT: "3306"
   MYSQL_DATABASE: "guestbook"
   MYSQL_USER: "root"
-  MYSQL_PASSWORD: "jadecross"
+  MYSQL_PASSWORD: "education"
